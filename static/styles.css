@@ -50,20 +50,6 @@ html,body {
         margin-right: 1%;
     }
 
-    /*h1{*/
-    /*    position: absolute;*/
-    /*    text-align: center;*/
-    /*    padding-top: 5%;*/
-    /*    padding-left: 30%;*/
-    /*}*/
-
-    /*p {*/
-    /*    position: absolute;*/
-    /*    text-align: center;*/
-    /*    padding-top: 15%;*/
-    /*    padding-left: 16%;*/
-    /*    font-size: x-large;*/
-    /*}*/
 
     .row-h1 h1 {
         vertical-align: center;
@@ -82,44 +68,13 @@ html,body {
     .daviet-img {
         height: 60%;
     }
-    /*.intro {*/
-    /*    position: absolute;*/
-    /*    height: 40%;*/
-    /*    width: 60%;*/
-    /*    margin-top: 30%;*/
-    /*    margin-left: 20%;*/
-    /*    margin-right: 20%;*/
-    /*    background-color: darkgrey;*/
-    /*    border-radius: 50% 20% / 10% 40%;*/
-
-    /*}*/
-
-    /*h1{*/
-    /*    position: absolute;*/
-    /*    text-align: center;*/
-    /*    padding-top: 15%;*/
-    /*    padding-left: 15%;*/
-    /*    padding-right: 10%;*/
-    /*}*/
-
-    /*p {*/
-    /*    position: absolute;*/
-    /*    text-align: center;*/
-    /*    padding-top: 30%;*/
-    /*    padding-left: 18%;*/
-    /*    padding-right: 18%;*/
-    /*    font-size: larger;*/
-    /*}*/
 
     .row-h1 h1 {
-        /*vertical-align: center;*/
         margin-top: 40%;
-        /*text-align: center;*/
     }
 
     .row-p p {
         margin-top: 2%;
-        /*text-align: center;*/
     }
 }
 
