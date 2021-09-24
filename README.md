@@ -1,2 +1,2 @@
 # DiyaSweb
-First responsive 
+First responsive dummy
