@@ -1,3 +1,3 @@
 # DiyaSweb
 First responsive dummy portfolio website.
-m,m,mmnjij
+m,m,mm
